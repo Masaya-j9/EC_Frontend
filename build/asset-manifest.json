@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.20f6e5d6.chunk.css",
+    "main.js": "/static/js/main.cec72b09.chunk.js",
+    "main.js.map": "/static/js/main.cec72b09.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f569408c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f569408c.js.map",
+    "static/js/2.2833a144.chunk.js": "/static/js/2.2833a144.chunk.js",
+    "static/js/2.2833a144.chunk.js.map": "/static/js/2.2833a144.chunk.js.map",
+    "static/js/3.54a38574.chunk.js": "/static/js/3.54a38574.chunk.js",
+    "static/js/3.54a38574.chunk.js.map": "/static/js/3.54a38574.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.20f6e5d6.chunk.css.map": "/static/css/main.20f6e5d6.chunk.css.map",
+    "static/js/2.2833a144.chunk.js.LICENSE.txt": "/static/js/2.2833a144.chunk.js.LICENSE.txt",
+    "static/media/crew_shirts.jpeg": "/static/media/crew_shirts.5af61b77.jpeg",
+    "static/media/gym_slacks.jpeg": "/static/media/gym_slacks.2ec08285.jpeg",
+    "static/media/tech_knit_crew_plus.jpeg": "/static/media/tech_knit_crew_plus.0b7664d2.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f569408c.js",
+    "static/js/2.2833a144.chunk.js",
+    "static/css/main.20f6e5d6.chunk.css",
+    "static/js/main.cec72b09.chunk.js"
+  ]
+}
